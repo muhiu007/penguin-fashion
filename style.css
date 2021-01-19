@@ -1,0 +1,78 @@
+body{
+    padding: 10px;
+}
+header{
+    background-color: #FFFBF0;
+}
+.logo{
+    width: 70%;
+}
+li{
+    margin-left: 30px;
+    margin-right: 20px;
+}
+.top-banner{
+    margin-top: 20px;
+  padding: 20px;
+}
+.banner{
+    width: 35%;
+}
+.banner-img{
+    width: 100%;
+}
+.banner h1{
+    font-weight: bolder;
+}
+#penguin{
+    color:#FABE4C;
+}
+#winter{
+    color:#30475E;
+}
+button{
+    padding: 5px 10px;
+    color: white;
+    background-color: #5b8519;
+}
+button img{
+    width: 30px;
+}
+.single-jacket{
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+}
+.product{
+    margin: 10px;
+    width: 334px;
+    height: 327px;
+    background-color: #f1f1f1;
+    border-radius: 20px;
+}
+.product-image{
+    width:60%;
+}
+.product-catagory{
+    color:#30475e;
+    font-weight: bold;
+}
+.price{
+    font-size:xx-large;
+    font-weight:700;
+    color: #FABE4C;
+}
+.facility{
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+}
+.facility p{
+    font-size: 12px;
+}
+.facility h6{
+    font-weight: bold;
+}
+.facility-pic img{
+    width: 100%;
+}
+.facilities{
+    width: 35%;
+}
